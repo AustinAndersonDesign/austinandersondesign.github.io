@@ -1,0 +1,969 @@
+{
+ "profile": {
+  "name": "Austin Anderson",
+  "greeting": "Howdy!",
+  "intro": "M.Arch student at North Dakota State University.",
+  "status": "M.Arch student",
+  "school": "North Dakota State University",
+  "hours": "750+ NCARB AXP hours",
+  "base": "Fargo, ND",
+  "signoff": "Stay Gold",
+  "photo": null
+ },
+ "projects": [
+  {
+   "id": "thesis",
+   "title": "The Neighborhood That Owns Itself",
+   "status": "In progress",
+   "type": "M.Arch Thesis",
+   "date": "2026 to 2027",
+   "location": "Detroit, MI",
+   "team": "Advisor: Professor Charlott Greub",
+   "text": "How can architecture, backed by a community ownership model, turn underused urban land into affordable mixed-use neighborhoods that reinvest in themselves without displacing the people already there?\n\nThe thesis pairs a community land trust with infill and adaptive reuse across a Detroit block, keeping housing, productive space and local enterprise affordable while preserving the identity of the neighborhood. Drawings and design development are on the way.",
+   "images": [
+    {
+     "caption": "Detroit site",
+     "src": null,
+     "feature": false,
+     "soon": true
+    },
+    {
+     "caption": "Community land trust model",
+     "src": null,
+     "feature": false,
+     "soon": true
+    },
+    {
+     "caption": "Block strategy",
+     "src": null,
+     "feature": false,
+     "soon": true
+    },
+    {
+     "caption": "Adaptive reuse study",
+     "src": null,
+     "feature": false,
+     "soon": true
+    }
+   ],
+   "hidden": false,
+   "featured": false,
+   "hue": 160
+  },
+  {
+   "id": "the-rook",
+   "title": "the ROOK",
+   "type": "Capstone",
+   "date": "Spring 2026",
+   "location": "Bismarck, ND",
+   "team": "",
+   "video": "https://youtu.be/84Wa6sAesG8",
+   "text": "A mixed-use senior housing community in downtown Bismarck, designed so residents can age in place and grounded in the Bismarck 2045 Comprehensive Plan.\n\nA U-shaped plan wraps a central Green Corridor. A concrete podium carries mass timber above, and the building targets LEED Platinum through passive solar design, stack-effect ventilation and photovoltaic generation.",
+   "images": [
+    {
+     "src": "photos/rook-sw.jpg",
+     "caption": "Southwest view",
+     "feature": true
+    },
+    {
+     "src": "photos/rook-night.jpg",
+     "caption": "Light at night",
+     "feature": true
+    },
+    {
+     "src": "photos/rook-green-corridor.jpg",
+     "caption": "Green corridor",
+     "feature": false
+    },
+    {
+     "src": "photos/rook-the-board.jpg",
+     "caption": "Courtyard at dusk",
+     "feature": false
+    },
+    {
+     "src": "photos/rook-1-bed.jpg",
+     "caption": "One-bed unit",
+     "feature": false
+    },
+    {
+     "src": "photos/rook-2-bed.jpg",
+     "caption": "Two-bed unit",
+     "feature": false
+    },
+    {
+     "src": "photos/rook-longitudinal-section.jpg",
+     "caption": "Longitudinal section",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/rook-transverse-sun-section.jpg",
+     "caption": "Transverse sun section",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/rook-egress-strategy.jpg",
+     "caption": "Egress strategy",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/rook-sketches.jpg",
+     "caption": "Concept sketches",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/rook-sketches-2.jpg",
+     "caption": "Massing sketches",
+     "feature": false,
+     "fit": "contain"
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": true,
+   "hue": 176
+  },
+  {
+   "id": "sanford",
+   "title": "Sanford Physical Therapy Clinic",
+   "type": "Architecture Studio",
+   "date": "Spring 2025",
+   "location": "Fargo, ND",
+   "team": "",
+   "text": "A clinic that brings Sanford's Fargo physical therapy locations under one roof, with aquatic therapy, gym therapy, analytic spaces, private rooms and a smoothie shop in the lobby.\n\nThe building sits into earth mounds that engage the site, add room for mobility testing and block street noise. Three-story atria light the main circulation, and a light-filtering skin brings daylight to patient spaces while keeping them private. Biophilia, proportion and natural light led every decision.",
+   "images": [
+    {
+     "src": "photos/sanford-lumion.jpg",
+     "caption": "Exterior at dusk",
+     "feature": true
+    },
+    {
+     "src": "photos/sanford-photoshop.jpg",
+     "caption": "Entrance from parking",
+     "feature": false
+    },
+    {
+     "src": "photos/sanford-lobby.jpg",
+     "caption": "Lobby",
+     "feature": false
+    },
+    {
+     "src": "photos/sanford-axon.jpg",
+     "caption": "Axonometric with programming",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/sanford-exam-room.jpg",
+     "caption": "Exam room",
+     "feature": false
+    },
+    {
+     "src": "photos/sanford-longitudinal-section.jpg",
+     "caption": "Longitudinal section",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/sanford-skin.jpg",
+     "caption": "Skin detail",
+     "feature": false,
+     "fit": "contain"
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 28
+  },
+  {
+   "id": "ellipses-ink",
+   "title": "Ellipses & Ink Bookstore",
+   "type": "ARCH 450, Materials and Construction",
+   "date": "Spring 2025",
+   "location": "Fargo, ND",
+   "team": "",
+   "text": "A semester's worth of detailing and construction in one project. The building sits just off the downtown corridor in Fargo, and the design itself takes a back seat to the drawings.\n\nThe work covers wall details, interior elevations, sections, site and schedules, and ends as a 42-page construction set.",
+   "images": [
+    {
+     "src": "photos/bookstore-wall-section.jpg",
+     "caption": "Wall section",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/bookstore-detail.jpg",
+     "caption": "Architectural details",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/bookstore-front.jpg",
+     "caption": "Front elevation",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/bookstore-site.jpg",
+     "caption": "Site plan",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/bookstore-first-floor.jpg",
+     "caption": "First floor plan",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/bookstore-el.jpg",
+     "caption": "Building elevations",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/bookstore-int-el.jpg",
+     "caption": "Interior elevations",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/bookstore-schedule.jpg",
+     "caption": "Schedules",
+     "feature": false,
+     "fit": "contain"
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 205
+  },
+  {
+   "id": "teal-prairie",
+   "title": "Teal Prairie",
+   "type": "Studio charrette",
+   "date": "Spring 2025",
+   "location": "Fargo, ND",
+   "team": "Team of six, architecture and landscape architecture",
+   "text": "A plaza outside NDSU's Renaissance Hall in downtown Fargo that ties the school to the Avery Apartments opening in 2026. The name and design come from the landscape around it.\n\nTeal points to the nearby Red River, which inspired a pebble pit. Prairie refers to the tall grasses echoed in the pavilion and the movable wind breaks, which keep the plaza changing. Grass mounds with live trees meet concrete forms with sculptural trees, leaving room for both creativity and quiet.",
+   "images": [
+    {
+     "src": "photos/teal-prarie-zoomed-out-render.jpg",
+     "caption": "Plaza overview",
+     "feature": true
+    },
+    {
+     "src": "photos/teal-prairie-night-pavillion.jpg",
+     "caption": "Pavilion at night",
+     "feature": false
+    },
+    {
+     "src": "photos/teal-prairie-close-up-entrance.jpg",
+     "caption": "Entrance up close",
+     "feature": false
+    },
+    {
+     "src": "photos/teal-prairie-winter.jpg",
+     "caption": "Winter",
+     "feature": false
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 165
+  },
+  {
+   "id": "continuum",
+   "title": "C O N T I N U U M",
+   "type": "Architecture Studio",
+   "date": "Fall 2024",
+   "location": "Osaka, Japan",
+   "team": "",
+   "text": "A pavilion for EXPO 2025 in Osaka, designed to teach about and inspire movement around connecting generations.\n\nTrue to the theme, the structure is meant to be reused, not recycled. The client, a wood tycoon from northern Minnesota, asked for a stick and timber structural system that still answers to its site.",
+   "images": [
+    {
+     "src": "photos/continuum.jpg",
+     "caption": "Exterior render",
+     "feature": true
+    },
+    {
+     "src": "photos/continuum-floor-plans.jpg",
+     "caption": "Floor plans",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/continuum-daylighting.jpg",
+     "caption": "Daylighting study",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/continuum-cooling.jpg",
+     "caption": "Passive cooling study",
+     "feature": false,
+     "fit": "contain"
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 12
+  },
+  {
+   "id": "locavore",
+   "title": "LOCAVORE",
+   "type": "Site Design for Architects",
+   "date": "Fall 2024",
+   "location": "Moorhead, MN",
+   "team": "Team of four",
+   "text": "A farmers' market and flexible public space on the river in Moorhead. A new public ramp down to the river's edge brings major accessibility improvements to downtown.\n\nThe building is raised above the flood line, since flooding is frequent here. Garage doors open the market up in warm months and keep it usable through the cold ones.",
+   "images": [
+    {
+     "src": "photos/locavore-interior.jpg",
+     "caption": "Market interior",
+     "feature": false
+    },
+    {
+     "src": "photos/locavore.jpg",
+     "caption": "Market exterior",
+     "feature": false
+    },
+    {
+     "src": "photos/locavore-interior-looking-w.jpg",
+     "caption": "Interior looking west",
+     "feature": false
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 95
+  },
+  {
+   "id": "pella",
+   "title": "PELLA Windows & Doors",
+   "type": "Environmental Control Systems: Passive Design",
+   "date": "Fall 2024",
+   "location": "Fargo, ND",
+   "team": "",
+   "text": "A competition entry for a new PELLA showroom in Fargo. The brief called for a distinctive structure that uses passive design efficiently and features PELLA products.\n\nThe passive systems are blended into the structure itself, for a welcoming, brand-centered building. More detail on the passive systems is available on request.",
+   "images": [
+    {
+     "src": "photos/pella-cover.jpg",
+     "caption": "Showroom at dusk",
+     "feature": true
+    },
+    {
+     "src": "photos/pella-boards.jpg",
+     "caption": "Competition board",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/pella-solar-glare-analysis.jpg",
+     "caption": "Solar glare analysis",
+     "feature": false,
+     "fit": "contain"
+    },
+    {
+     "src": "photos/pella-solar-heat-analysis.jpg",
+     "caption": "Solar heat analysis",
+     "feature": false,
+     "fit": "contain"
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 215
+  },
+  {
+   "id": "rpcc",
+   "title": "Radiant Pathways Cultural Center",
+   "type": "Architecture Studio",
+   "date": "Fall 2024",
+   "location": "Santa Fe, NM",
+   "team": "",
+   "text": "A cultural center in Santa Fe's Railyard District, one of the few places in the city where buildings can explore materials beyond adobe.\n\nThe studio traveled to Santa Fe to interview residents and immerse ourselves in the site. The brief pushed into masonry and into designing for a climate and context very different from the Midwest.",
+   "images": [
+    {
+     "src": "photos/new-mexico-front.jpg",
+     "caption": "Front exterior",
+     "feature": false
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 32
+  },
+  {
+   "id": "ndsu-museum",
+   "title": "NDSU Museum & Archives",
+   "type": "Architecture Studio",
+   "date": "Spring 2024",
+   "location": "Fargo, ND",
+   "team": "",
+   "text": "A museum and archive that extends NDSU's downtown campus and invites the public in.\n\nThe large building respects the setbacks and geometry around it while opening up with big windows and spaces of refuge. A two-story opening and grand staircase are meant to inspire visitors as they arrive.",
+   "images": [
+    {
+     "src": "photos/museum-and-archive-front.jpg",
+     "caption": "Exterior",
+     "feature": true
+    },
+    {
+     "src": "photos/museum-and-archive-model-large.jpg",
+     "caption": "Physical model",
+     "feature": false
+    },
+    {
+     "src": "photos/eggcrate-window-details-museum-and-archive.jpg",
+     "caption": "Egg-crate window details",
+     "feature": false,
+     "fit": "contain"
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 240
+  },
+  {
+   "id": "personal",
+   "title": "Personal Project",
+   "type": "Personal project, Minecraft",
+   "date": "2015 to present",
+   "location": "North America",
+   "team": "",
+   "text": "A city built continuously for more than ten years, driven not by assignments but by genuine interest in architecture, urban space and systems.\n\nBuildings are designed around facade, scale, material logic and context. Neighborhoods are planned around circulation, density, landmarks and spatial hierarchy.",
+   "images": [
+    {
+     "src": "photos/personal-project-cover.jpg",
+     "caption": "City overview",
+     "feature": false
+    },
+    {
+     "src": "photos/personal-project-view-n.jpg",
+     "caption": "View north",
+     "feature": false
+    },
+    {
+     "src": "photos/personal-project-building-example.jpg",
+     "caption": "Tower build",
+     "feature": false
+    }
+   ],
+   "hidden": false,
+   "status": "",
+   "featured": false,
+   "hue": 140
+  }
+ ],
+ "research": [
+  {
+   "id": "thesis-research",
+   "title": "The Neighborhood That Owns Itself",
+   "status": "In progress",
+   "course": "M.Arch Thesis, advised by Professor Charlott Greub",
+   "project": "thesis",
+   "summary": "Transforming underused urban areas into affordable mixed-use housing, supported by a community ownership model, in Detroit, Michigan.",
+   "questions": [
+    "Community ownership: how a community land trust can keep a neighborhood affordable and let it reinvest in itself.",
+    "Urban design: how infill and adaptive reuse across a Detroit block can add housing, productive space and local enterprise while keeping the neighborhood's identity.",
+    "Together: how the ownership model and the design strategy can work as one, so growth happens without displacing the existing community."
+   ],
+   "image": {
+    "soon": true
+   },
+   "hue": 160
+  },
+  {
+   "id": "between-the-folds",
+   "title": "Between the Folds",
+   "course": "ARCH 474, NDSU School of Design, Architecture and Art",
+   "summary": "How can building typologies from very different regions live together in one neighborhood? Eleven paper models, folded on site in eleven European cities, test that question through observation, materiality and lived experience rather than formal planning. Visitors can rearrange the models into their own neighborhoods, because there is no single ideal city.",
+   "cities": [
+    [
+     "Berlin",
+     "Residency",
+     "Prefabricated postwar apartment blocks with shared courtyards"
+    ],
+    [
+     "Copenhagen",
+     "Culture",
+     "A light-filled Scandinavian modern museum linking art and nature"
+    ],
+    [
+     "Prague",
+     "Hospitality",
+     "A medieval and baroque hotel where locals and travelers meet"
+    ],
+    [
+     "London",
+     "Spirituality",
+     "A church as neighborhood landmark and gathering place"
+    ],
+    [
+     "Freiburg",
+     "Work",
+     "A mill tied to water and natural systems"
+    ],
+    [
+     "Amsterdam",
+     "Connection",
+     "A train station linking residents to the wider world"
+    ],
+    [
+     "Paris",
+     "Entertainment",
+     "A cafe and theater for performance and conversation"
+    ],
+    [
+     "Bayeux",
+     "Government",
+     "A town hall as a symbol of civic order and access"
+    ],
+    [
+     "Florence",
+     "Education",
+     "A school for knowledge exchange across generations"
+    ],
+    [
+     "Rome",
+     "Food",
+     "A restaurant where dining is a cultural art form"
+    ],
+    [
+     "Interlaken",
+     "Healthcare",
+     "A hospital that heals through calm and nature"
+    ]
+   ],
+   "methods": "Each model was folded and painted while standing in its city, in paper chosen for its forgiving, human quality. Walking, listening and conversations with locals shaped the work, alongside attention to scale, material, movement and how people actually used each space.",
+   "refs": "Jan Gehl, Life Between Buildings and Cities for People. Jane Jacobs, The Death and Life of Great American Cities. Carlos Moreno, the 15-Minute City. SPACE10, The Ideal City.",
+   "image": {
+    "src": "photos/study-abroad-gallery-full.jpg"
+   },
+   "hue": 200,
+   "gallery": [
+    {
+     "src": "photos/between-the-folds.jpg",
+     "caption": "The models together",
+     "feature": false
+    },
+    {
+     "src": "photos/between-the-folds-eye-level.jpg",
+     "caption": "At eye level",
+     "feature": false
+    },
+    {
+     "src": "photos/between-the-folds-graphic.jpg",
+     "caption": "The eleven typologies",
+     "feature": false
+    }
+   ]
+  }
+ ],
+ "media": [
+  {
+   "kind": "Video",
+   "title": "Real Talk: leadership and integrity",
+   "source": "YouTube",
+   "date": "",
+   "url": "https://www.youtube.com/watch?v=rav5Tbbt-Jo",
+   "text": "An interview on leading with integrity.",
+   "image": {
+    "src": "photos/real-talk-cover.jpg"
+   },
+   "hue": 190
+  },
+  {
+   "kind": "Article",
+   "title": "24th & Dodge workforce apartments downtown",
+   "source": "Grow Omaha",
+   "date": "",
+   "url": "https://growomaha.com/greenslate-development-partners-to-build-workforce-apartments-downtown/",
+   "text": "Coverage of the workforce housing project at 24th and Dodge in Omaha.",
+   "image": {
+    "src": "photos/24th-and-dodge-cover.jpg"
+   },
+   "hue": 24
+  },
+  {
+   "kind": "Feature",
+   "title": "Touch Base with Austin Anderson",
+   "source": "NDSU Foundation",
+   "date": "October 2024",
+   "url": "https://ndsufoundation.com/stories/2024/10/touch-base-with-austin-anderson",
+   "text": "A profile from the NDSU Foundation.",
+   "image": {
+    "src": "photos/touch-base-with-austin-cover.jpg"
+   },
+   "hue": 160
+  },
+  {
+   "kind": "Video",
+   "title": "NDSU President and Student Body Vice President in conversation",
+   "source": "NDSU Marketing",
+   "date": "",
+   "url": "https://www.youtube.com/watch?v=pZNLjw5w4KE",
+   "text": "A conversation with the university president.",
+   "image": {
+    "src": "photos/ndsu-president-and-student-body-cover.jpg"
+   },
+   "hue": 215
+  },
+  {
+   "kind": "Article",
+   "title": "Blue Key awards honorary membership to Landon's Light",
+   "source": "NDSU News",
+   "date": "October 2026",
+   "url": "https://www.ndsu.edu/news/2026-10-27-blue-key-awards-honorary-membership-landons-light",
+   "text": "At the 2026 Homecoming Show, Blue Key Honor Society, which I lead as president, gave Landon Solberg a posthumous honorary membership. Landon's Light supports children facing serious illness.",
+   "image": {
+    "src": "photos/landons-light-linkedin.jpg"
+   },
+   "hue": 200
+  }
+ ],
+ "leadership": {
+  "kicker": "",
+  "title": "Leadership and real‑world application",
+  "lead": "Worked with the North Dakota State Legislature on drafting policy, managed a $4.2 million student budget, represented students on the proposed NDSU Memorial Union remodel, and led Blue Key Honor Society in service to the community, driven by curiosity and the ambition to take on more than any role asked for.",
+  "items": [
+   {
+    "fig": "ND Legislature",
+    "label": "Policy drafting",
+    "role": "Student government, NDSU",
+    "text": "Worked with the North Dakota State Legislature on drafting policy."
+   },
+   {
+    "fig": "$4.2M",
+    "label": "Budget managed",
+    "role": "Student Body Vice President, NDSU",
+    "text": "Oversaw a $4.2 million student budget."
+   },
+   {
+    "fig": "Union remodel",
+    "label": "Student representative",
+    "role": "Proposed NDSU Memorial Union remodel",
+    "text": "Represented students on the proposed remodel of the NDSU Memorial Union."
+   },
+   {
+    "fig": "President",
+    "label": "Blue Key Honor Society",
+    "role": "Service to the community",
+    "text": "Led the NDSU chapter of Blue Key Honor Society in service to the community."
+   }
+  ],
+  "roles": [
+   [
+    "External Affairs Commission Member",
+    "Student Government, NDSU"
+   ],
+   [
+    "Member",
+    "Congress of Student Organizations"
+   ],
+   [
+    "Member",
+    "North Dakota Student Association"
+   ],
+   [
+    "Student Tour and Recruitment Specialist",
+    "Office of Admissions, NDSU"
+   ],
+   [
+    "Member",
+    "American Institute of Architecture Students (AIAS)"
+   ],
+   [
+    "Member",
+    "USGBC Students"
+   ],
+   [
+    "Member",
+    "Greek life"
+   ],
+   [
+    "Member",
+    "School of Design, Architecture and Art"
+   ]
+  ],
+  "photos": []
+ },
+ "about": {
+  "text": "I'm an architecture student and emerging professional with experience in CAD drafting, 3D modeling and architectural visioning, built through school and two years interning at Holland Basham Architects in Omaha.\n\nI also lead. As Student Body Vice President at NDSU, I managed a $4.2 million budget and worked with the North Dakota Legislature on drafting policy, alongside Greek life and the School of Design, Architecture and Art.\n\nI'm drawn to adaptable, thoughtful spaces that respond to present needs and future change, with clarity, flexibility and intent. Collaboration, clear communication and continual learning guide how I work.",
+  "facts": [
+   [
+    "Education",
+    "M.Arch student, North Dakota State University. B.S. Architecture, magna cum laude."
+   ],
+   [
+    "Experience",
+    "Holland Basham Architects, Omaha. Two-year internship."
+   ],
+   [
+    "Leadership",
+    "Student Body Vice President, NDSU. $4.2M budget, policy work with the ND Legislature."
+   ],
+   [
+    "Licensure",
+    "750+ NCARB AXP hours"
+   ],
+   [
+    "Recognition",
+    "Mary Gunkelman Award nominee. NDSU New Member of the Year for co-curricular leadership. Blue Key Honor Society President. Alpha Tau Omega and AIAS member."
+   ]
+  ],
+  "pro": [
+   "Architectural visioning",
+   "Concept development",
+   "Site and urban analysis",
+   "Diagramming and representation",
+   "Leading meetings",
+   "Stakeholder communication",
+   "Initiative and policy development",
+   "Project coordination"
+  ],
+  "tech": [
+   "Revit",
+   "AutoCAD",
+   "SketchUp",
+   "Rhino",
+   "Enscape",
+   "Lumion",
+   "D5 Render",
+   "Veras",
+   "Autodesk Forma",
+   "Bluebeam",
+   "Adobe Creative Suite",
+   "Microsoft Office",
+   "GIS",
+   "Hand modeling and drawing"
+  ],
+  "photo": {
+   "src": "photos/headshot.jpg"
+  }
+ },
+ "contact": {
+  "email": "austin.d.anderson03@gmail.com",
+  "phone": "952-843-3283",
+  "instagram": "https://www.instagram.com/austin_anderson03/",
+  "linkedin": "https://www.linkedin.com/in/austin-anderson-236385284/",
+  "line": "Looking for the full architectural portfolio with drawings, renderings and process? Reach out and I will send it over."
+ },
+ "explore": {
+  "show": true,
+  "navLabel": "Explorations",
+  "title": "Explorations",
+  "sub": "Work outside the studio: tools I build with code and things I make by hand.",
+  "groups": [
+   {
+    "title": "Handcrafted",
+    "sub": "Woodworking, sketches and other work made by hand.",
+    "items": [
+     {
+      "title": "Birdhouse",
+      "kind": "Woodworking",
+      "year": "",
+      "text": "A birdhouse built in the wood shop, shaped and joined by hand.",
+      "link": "",
+      "image": {
+       "src": "photos/birdhouse-woodworking.jpg"
+      },
+      "hue": 32
+     },
+     {
+      "title": "CNC and hand routing",
+      "kind": "Woodworking",
+      "year": "",
+      "text": "Pieces cut on the CNC router and finished by hand. Photo coming soon.",
+      "link": "",
+      "image": {
+       "soon": true
+      },
+      "hue": 32
+     },
+     {
+      "title": "Hand drawing",
+      "kind": "Drawing",
+      "year": "",
+      "text": "Hand-drawn studies of form, section and space.",
+      "link": "",
+      "image": {
+       "src": "photos/hand-drawing.jpg"
+      },
+      "hue": 60
+     },
+     {
+      "title": "Wood model",
+      "kind": "Model making",
+      "year": "",
+      "text": "A physical study model cut and assembled by hand.",
+      "link": "",
+      "image": {
+       "src": "photos/wood-model.jpg"
+      },
+      "hue": 95
+     },
+     {
+      "title": "Ceramics",
+      "kind": "Pottery",
+      "year": "",
+      "text": "Wheel-thrown bowls, cups and vessels from the ceramics studio.",
+      "link": "",
+      "image": {
+       "src": "photos/ceramics-potfolio.jpg"
+      },
+      "hue": 40
+     },
+     {
+      "title": "Study abroad exhibition",
+      "kind": "Exhibition",
+      "year": "",
+      "text": "The gallery set up and ready for the Between the Folds models.",
+      "link": "",
+      "image": {
+       "src": "photos/study-abroad-gallery-empty.jpg"
+      },
+      "hue": 200
+     },
+     {
+      "title": "Wood firing",
+      "kind": "Pottery",
+      "year": "",
+      "text": "Loading and tending a wood-fired kiln.",
+      "link": "",
+      "image": {
+       "src": "photos/wood-firing-at-the-kiln.jpg"
+      },
+      "hue": 20
+     }
+    ]
+   },
+   {
+    "title": "Technology exploration",
+    "sub": "Personal software projects built with AI-assisted coding.",
+    "items": [
+     {
+      "title": "Annakind",
+      "kind": "Browser game",
+      "year": "2026",
+      "text": "An isometric colony sim for desktop and phone. A city-planning version adds zoning, civic and green space, and organic medieval-style streets.",
+      "link": "",
+      "image": {
+       "src": "photos/annakind.jpg"
+      },
+      "hue": 150
+     },
+     {
+      "title": "Daybrief",
+      "kind": "iPhone widget and laptop page",
+      "year": "2026",
+      "text": "A personal daily brief that pulls my calendar, priority email and weather into one glance, sorted by simple rules.",
+      "link": "",
+      "image": {
+       "src": "photos/daybrief.jpg"
+      },
+      "hue": 215
+     },
+     {
+      "title": "Austin's Closet",
+      "kind": "iPhone web app",
+      "year": "2026",
+      "text": "A wardrobe app that builds outfits from color theory, live weather, season and style, with optional on-phone AI tagging.",
+      "link": "",
+      "image": {
+       "src": "photos/closet.jpg"
+      },
+      "hue": 28
+     },
+     {
+      "title": "This website",
+      "kind": "Portfolio site",
+      "year": "2026",
+      "text": "Hosted free on GitHub, with a private editor so every page can be updated without touching code.",
+      "link": "",
+      "image": {
+       "src": "photos/website.jpg"
+      },
+      "hue": 176
+     }
+    ]
+   }
+  ]
+ },
+ "navMore": [
+  "media",
+  "explore"
+ ],
+ "text": {
+  "nav": {
+   "work": "Work",
+   "beyond": "Leadership",
+   "media": "Media",
+   "research": "Research",
+   "about": "About",
+   "contact": "Contact",
+   "more": "More"
+  },
+  "block": [
+   "Status",
+   "School",
+   "Licensure",
+   "Based in"
+  ],
+  "slideButton": "See the project",
+  "workTitle": "Selected work",
+  "workSub": "Projects across North Dakota, Minnesota, Michigan, New Mexico and Japan, with a focus on passive design and site-specific structure.",
+  "mediaTitle": "In the media",
+  "alsoLabel": "Also involved in",
+  "researchTitle": "Graduate research",
+  "researchSub": "Thesis work and research at NDSU.",
+  "typTitle": "The eleven typologies",
+  "aboutTitle": "About",
+  "aboutSub": "Architecture student, emerging professional, and someone who likes running the meeting.",
+  "proTitle": "Professional",
+  "techTitle": "Technical",
+  "contactTitle": "Let's build something.",
+  "editLink": "Edit site"
+ },
+ "theater": {
+  "on": true,
+  "label": "Now showing",
+  "title": "the ROOK",
+  "sub": "Video tour",
+  "url": "https://youtu.be/84Wa6sAesG8",
+  "hue": 200
+ },
+ "layout": [
+  {
+   "id": "beyond",
+   "show": true
+  },
+  {
+   "id": "work",
+   "show": true
+  },
+  {
+   "id": "research",
+   "show": true
+  },
+  {
+   "id": "about",
+   "show": true
+  }
+ ],
+ "look": {
+  "preset": "portfolio",
+  "accent": "",
+  "band": ""
+ }
+}
