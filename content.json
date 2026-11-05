@@ -353,7 +353,12 @@
    "hidden": false,
    "status": "",
    "featured": false,
-   "hue": 95
+   "hue": 95,
+   "credits": [
+    "Paola Flores",
+    "Nick Becker",
+    "Mathew Blaschko"
+   ]
   },
   {
    "id": "pella",
