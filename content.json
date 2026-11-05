@@ -596,7 +596,7 @@
    "image": {
     "src": "real-talk-cover.jpg",
     "pos": "50% 0%",
-    "fit": "contain"
+    "fit": "cover"
    },
    "hue": 190
   },
