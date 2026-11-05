@@ -650,12 +650,12 @@
  "leadership": {
   "kicker": "",
   "title": "Leadership and real‑world application",
-  "lead": "Worked with the North Dakota State Legislature on drafting policy, managed a $4.2 million student budget, represented students on the proposed NDSU Memorial Union remodel, and led Blue Key Honor Society in service to the community, driven by curiosity and the ambition to take on more than any role asked for.",
+  "lead": "Worked with the North Dakota State Legislature on drafting policy, managed a $4.2 million student budget, represented students on the proposed NDSU Memorial Union remodel, and led Blue Key Honor Society in service to the community, driven by curiosity and my ambition to improve spaces.",
   "items": [
    {
-    "fig": "ND Legislature",
+    "fig": "N.D. Legislature",
     "label": "Policy drafting",
-    "role": "Student government, NDSU",
+    "role": "North Dakota Student Association",
     "text": "Worked with the North Dakota State Legislature on drafting policy."
    },
    {
@@ -667,7 +667,7 @@
    {
     "fig": "Union remodel",
     "label": "Student representative",
-    "role": "Proposed NDSU Memorial Union remodel",
+    "role": "NDSU Memorial Union remodel Executive Committee",
     "text": "Represented students on the proposed remodel of the NDSU Memorial Union."
    },
    {
@@ -679,8 +679,8 @@
   ],
   "roles": [
    [
-    "External Affairs Commission Member",
-    "Student Government, NDSU"
+    "Member",
+    "External Affairs Commission"
    ],
    [
     "Member",
@@ -707,11 +707,16 @@
     "Greek life"
    ],
    [
-    "Member",
+    "Student",
     "School of Design, Architecture and Art"
    ]
   ],
-  "photos": []
+  "photos": [
+   null,
+   null,
+   null,
+   null
+  ]
  },
  "about": {
   "text": "I'm an architecture student and emerging professional with experience in CAD drafting, 3D modeling and architectural visioning, built through school and two years interning at Holland Basham Architects in Omaha.\n\nI also lead. As Student Body Vice President at NDSU, I managed a $4.2 million budget and worked with the North Dakota Legislature on drafting policy, alongside Greek life and the School of Design, Architecture and Art.\n\nI'm drawn to adaptable, thoughtful spaces that respond to present needs and future change, with clarity, flexibility and intent. Collaboration, clear communication and continual learning guide how I work.",
@@ -890,17 +895,6 @@
       "hue": 215
      },
      {
-      "title": "Austin's Closet",
-      "kind": "iPhone web app",
-      "year": "2026",
-      "text": "A wardrobe app that builds outfits from color theory, live weather, season and style, with optional on-phone AI tagging.",
-      "link": "",
-      "image": {
-       "src": "closet.jpg"
-      },
-      "hue": 28
-     },
-     {
       "title": "This website",
       "kind": "Portfolio site",
       "year": "2026",
@@ -910,6 +904,17 @@
        "src": "website.jpg"
       },
       "hue": 176
+     },
+     {
+      "title": "Austin's Closet",
+      "kind": "iPhone web app",
+      "year": "2026",
+      "text": "A wardrobe app that builds outfits from color theory, live weather, season and style, with optional on-phone AI tagging.",
+      "link": "",
+      "image": {
+       "src": "closet.jpg"
+      },
+      "hue": 28
      }
     ]
    }
