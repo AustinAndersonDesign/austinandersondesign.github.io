@@ -796,10 +796,10 @@
       "hue": 32
      },
      {
-      "title": "CNC and hand routing",
+      "title": "CNC hand routing",
       "kind": "Woodworking",
       "year": "",
-      "text": "Pieces cut on the CNC router and finished by hand. Photo coming soon.",
+      "text": "Pieces cut on the CNC router and finished by hand. ",
       "link": "",
       "image": {
        "soon": true
@@ -810,7 +810,7 @@
       "title": "Hand drawing",
       "kind": "Drawing",
       "year": "",
-      "text": "Hand-drawn studies of form, section and space.",
+      "text": "Hand-drawn studies of form, section, space, precedent, sketching, etc...",
       "link": "",
       "image": {
        "src": "hand-drawing.jpg"
@@ -830,7 +830,7 @@
      },
      {
       "title": "Ceramics",
-      "kind": "Pottery",
+      "kind": "Ceramics",
       "year": "",
       "text": "Wheel-thrown bowls, cups and vessels from the ceramics studio.",
       "link": "",
@@ -852,7 +852,7 @@
      },
      {
       "title": "Wood firing",
-      "kind": "Pottery",
+      "kind": "Ceramics",
       "year": "",
       "text": "Loading and tending a wood-fired kiln.",
       "link": "",
