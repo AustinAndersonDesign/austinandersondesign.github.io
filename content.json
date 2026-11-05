@@ -40,7 +40,7 @@
      "soon": true
     },
     {
-     "caption": "Adaptive reuse study",
+     "caption": "Adaptive reuse and infill study",
      "src": null,
      "feature": false,
      "soon": true
@@ -48,7 +48,10 @@
    ],
    "hidden": false,
    "featured": false,
-   "hue": 160
+   "hue": 160,
+   "credits": [
+    "Charlott Greub | Advisor"
+   ]
   },
   {
    "id": "the-rook",
@@ -249,7 +252,7 @@
    "date": "Spring 2025",
    "location": "Fargo, ND",
    "team": "Team of six, architecture and landscape architecture",
-   "text": "A plaza outside NDSU's Renaissance Hall in downtown Fargo that ties the school to the Avery Apartments opening in 2026. The name and design come from the landscape around it.\n\nTeal points to the nearby Red River, which inspired a pebble pit. Prairie refers to the tall grasses echoed in the pavilion and the movable wind breaks, which keep the plaza changing. Grass mounds with live trees meet concrete forms with sculptural trees, leaving room for both creativity and quiet.",
+   "text": "A plaza outside NDSU's Renaissance Hall in downtown Fargo that ties the school to the Avery Apartments opening in 2026. The name and design come from the landscape around it.\n\nTeal points to the nearby Red River, which inspired an interactive pebble pit. Prairie refers to the tall grasses echoed in the pavilion and the movable wind breaks, which keep the plaza changing. Grass mounds with live trees meet concrete forms with sculptural trees, leaving room for both creativity and quiet as well as spaces for winter and summer use.",
    "images": [
     {
      "src": "teal-prarie-zoomed-out-render.jpg",
@@ -275,7 +278,14 @@
    "hidden": false,
    "status": "",
    "featured": false,
-   "hue": 165
+   "hue": 165,
+   "credits": [
+    "Ella Bisgard",
+    "Mckenna Thompson",
+    "Evren Akyuz",
+    "Paige Bullington",
+    "Camryn Bernard"
+   ]
   },
   {
    "id": "continuum",
@@ -357,7 +367,7 @@
     {
      "src": "pella-cover.jpg",
      "caption": "Showroom at dusk",
-     "feature": true
+     "feature": false
     },
     {
      "src": "pella-boards.jpg",
