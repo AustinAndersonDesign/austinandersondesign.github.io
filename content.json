@@ -594,9 +594,22 @@
    "url": "https://www.youtube.com/watch?v=rav5Tbbt-Jo",
    "text": "An interview on leading with integrity.",
    "image": {
-    "src": "real-talk-cover.jpg"
+    "src": "real-talk-cover.jpg",
+    "pos": "50% 0%"
    },
    "hue": 190
+  },
+  {
+   "kind": "Article",
+   "title": "Blue Key awards honorary membership to Landon's Light",
+   "source": "NDSU News",
+   "date": "October 2026",
+   "url": "https://www.ndsu.edu/news/2026-10-27-blue-key-awards-honorary-membership-landons-light",
+   "text": "At the 2026 Homecoming Show, Blue Key Honor Society, which I lead as president, gave Landon Solberg a posthumous honorary membership. Landon's Light supports children facing serious illness.",
+   "image": {
+    "src": "landons-light-linkedin.jpg"
+   },
+   "hue": 200
   },
   {
    "kind": "Article",
@@ -633,18 +646,6 @@
     "src": "ndsu-president-and-student-body-cover.jpg"
    },
    "hue": 215
-  },
-  {
-   "kind": "Article",
-   "title": "Blue Key awards honorary membership to Landon's Light",
-   "source": "NDSU News",
-   "date": "October 2026",
-   "url": "https://www.ndsu.edu/news/2026-10-27-blue-key-awards-honorary-membership-landons-light",
-   "text": "At the 2026 Homecoming Show, Blue Key Honor Society, which I lead as president, gave Landon Solberg a posthumous honorary membership. Landon's Light supports children facing serious illness.",
-   "image": {
-    "src": "landons-light-linkedin.jpg"
-   },
-   "hue": 200
   }
  ],
  "leadership": {
